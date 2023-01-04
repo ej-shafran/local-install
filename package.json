@@ -1,0 +1,19 @@
+{
+  "name": "pack-and-install",
+  "version": "1.0.0",
+  "description": "Package for locally installing dependencies",
+  "bin": "./bin.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pack-and-install": {
+    "type": "git",
+    "url": "git+https://github.com/ej-shafran/local-install.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ej-shafran/local-install/issues"
+  },
+  "homepage": "https://github.com/ej-shafran/local-install#readme"
+}
