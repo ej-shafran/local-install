@@ -94,7 +94,7 @@ Usage: $SCRIPT_NAME [-k] [path]
 
 Options:
   -h --help      Show this message
-  -k --keep-tar  Don't delete the \`tar\` file after packing
+  -k --keep-tar  Don't delete the \`tgz\` file after packing
 EOF
 
 }
