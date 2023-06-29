@@ -1,19 +1,17 @@
 {
   "name": "pack-and-install",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package for locally installing dependencies",
   "bin": "./bin.sh",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "pack-and-install": {
+  "scripts": {},
+  "repository": {
     "type": "git",
-    "url": "git+https://github.com/ej-shafran/local-install.git"
+    "url": "git+https://github.com/ej-shafran/pack-and-install.git"
   },
-  "author": "",
+  "author": "ej-shafran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ej-shafran/local-install/issues"
+    "url": "https://github.com/ej-shafran/pack-and-install/issues"
   },
-  "homepage": "https://github.com/ej-shafran/local-install#readme"
+  "homepage": "https://github.com/ej-shafran/pack-and-install#readme"
 }
