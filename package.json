@@ -1,6 +1,6 @@
 {
   "name": "pack-and-install",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Package for locally installing dependencies",
   "bin": "./bin.sh",
   "scripts": {},
